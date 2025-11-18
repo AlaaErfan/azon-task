@@ -124,3 +124,12 @@ body of the request
 }
 
 
+
+
+it can be also without the golden_summary
+
+{
+  "owner": "AlaaErfan",
+  "repo": "test-github-activity",
+  "date": "2025-11-18"
+}
