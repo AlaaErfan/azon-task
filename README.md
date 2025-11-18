@@ -1,8 +1,3 @@
-# GitHub Daily Activity Summarizer  
-*A LangChain + LangGraph pipeline for analyzing GitHub activity, generating daily engineering summaries, and evaluating them with LLMs.*
-
----
-
 # GitHub Daily Activity Summarizer
 
 ## Objective
@@ -133,3 +128,4 @@ it can be also without the golden_summary
   "repo": "test-github-activity",
   "date": "2025-11-18"
 }
+
